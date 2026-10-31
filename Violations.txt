@@ -1,0 +1,5 @@
+0,NoSafetyEquipment,500
+1,ImproperWasteDisposal,750
+2,UnauthorizedConstruction,1000
+3,HealthCodeBreach,850
+4,WaterContaminationRisk,1200

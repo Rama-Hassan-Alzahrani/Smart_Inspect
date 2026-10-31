@@ -1,0 +1,16 @@
+0, BeachHouse, 2025-03-10, 2026-03-10, 1023, 8472, Mohamad
+1, OceanWave Resort, 2025-01-22, 2026-01-22, 4821, 3910, Sara
+2, GreenBay Retreat, 2025-02-14, 2026-02-14, 3940, 1128, Ahmad
+3, SunsetShore Cafe, 2025-04-01, 2026-04-01, 2031, 8882, Lina
+4, PearlCoast Spa, 2025-05-19, 2026-05-19, 5510, 7741, Reem
+5, FreshTide Bites, 2025-06-03, 2026-06-03, 1129, 6632, Yousef
+6, BlueMarina Resort, 2025-07-28, 2026-07-28, 8291, 4523, Hassan
+7, CozyDunes Corner, 2025-08-15, 2026-08-15, 4428, 1102, Noura
+8, PalmCove Retreat, 2025-09-07, 2026-09-07, 3911, 2094, Khalid
+9, StarReef Lounge, 2025-10-30, 2026-10-30, 7782, 6650, Maha
+10, RoseCoast Bakery, 2025-11-12, 2026-11-12, 2391, 5104, Fatimah
+11, Lakefront Dunes, 2025-12-01, 2026-12-01, 6612, 3488, Abdullah
+12, CedarBay Clinic, 2025-10-05, 2026-10-05, 1940, 7281, Hadi
+13, MintShore Cafe, 2025-09-20, 2026-09-20, 5230, 1199, Rana
+14, CoralDunes Studio, 2025-08-11, 2026-08-11, 3102, 4421, Salem
+15, SandBar Spa, 2025-07-03, 2026-07-03, 7455, 6602, Amina
